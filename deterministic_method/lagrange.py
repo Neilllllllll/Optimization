@@ -1,0 +1,3 @@
+class Lagrange:
+    lambda = None
+    
